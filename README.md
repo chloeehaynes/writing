@@ -8,4 +8,4 @@
 
 ### More Information
 #### Technical Writing Samples
-These samples were written for Technical Writing at Washington University in St. Louis, receiveing scores of 100%.
+These samples were written for Technical Writing at Washington University in St. Louis, both receiving scores of 100%.
